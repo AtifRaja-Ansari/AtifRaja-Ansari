@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm fresher currently learning about about programming stuff<br>Passionately looking to a bright future in these field<br>looking forward to platforms and opportunities to work as a developer 
+I'm fresher currently learning about programming stuff<br>Passionately looking to a bright future in these field<br>looking forward to platforms and opportunities to work as a developer 
 
 
 ## 🌐 Socials:
